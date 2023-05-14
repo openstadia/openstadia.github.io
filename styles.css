@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .orange-openstadia {
+        color: rgb(216, 91, 64);
+    }
+
+    .utkin-tech {
+        font-family: 'Comfortaa', cursive;
+    }
+}
